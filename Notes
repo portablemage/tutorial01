@@ -1,0 +1,9 @@
+1.Backup: 
+-Do backup every 30 min
+-Have three backup directories and rotate them
+
+GIT -version control tool.Allows to revert back files.
+git add FILENAME // add file to git control
+git diff // shows changes
+git diff --cached // shows file version
+
